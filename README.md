@@ -8,10 +8,10 @@ For this project, you’ll create a 90-second audio collage using Audacity that 
 5. Edit this `README.md` file by adding a link to your project and including a description below.
 
 ### Link
-[http://www.add link to your project here.com](http://www.add link to your project here.com)
+[http://mmp.bmcc.cuny.edu/peter.fenoaltea/spring-2018/mmp-100/project-3/](http://mmp.bmcc.cuny.edu/peter.fenoaltea/spring-2018/mmp-100/project-3/)
 
 ### Description
-Your description goes here.
+My project is supposed to be humorous and about me talking to myself about what to do my project on.
 
 ## Rules
 * **Do not** add or remove any files to this repo.
